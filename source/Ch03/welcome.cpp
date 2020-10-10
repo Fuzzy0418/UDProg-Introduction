@@ -17,7 +17,7 @@ int main()
 
 	cout << "Have you seen " << friend_name << "?\n";
 
-	char friend_sex = 0;
+	char friend_sex = '';
 	cout << "What is your friend gender? (f/m): ";
 	cin >> friend_sex;
 
